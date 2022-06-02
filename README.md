@@ -5,12 +5,7 @@
 - 👨‍💻 Especialista 2                                👉 [UTE](https://www.ute.com.uy)
 - 👨‍💻 Data Science                                  👉 [Coderhouse](https://www.coderhouse.com/)
 - 👨‍🏫 Student Lic. Comp. IA                         👉 [Fing](https://www.fing.edu.uy/)
-- 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) [4Geeks Academy](https://4geeks.com/)
-
-### I like:
-
-- 👨‍💻 | 🎧 | 🎸 | 🗻 | ⛺ | 🚵 | 🏍️ | 🍕 | 🎮 | 🐶 |
-
+- 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
 ### Most used languages:
 
