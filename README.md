@@ -26,7 +26,6 @@
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Coyto" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={Eduardo-Coyto}` |
 
-<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Coyto&show_icons=true&locale=en&langs_count=8&theme=aura&layout=compact&hide=html,shell" alt="Eduardo-Coytostatus" /></p>
 
 
 #### You can find me at
