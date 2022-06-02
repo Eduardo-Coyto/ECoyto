@@ -13,3 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eduardo-coyto-brignone-4b5637142/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p align='center'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.linkedin.com/in/eduardo-coyto-brignone-4b5637142](https://twitter.com/EduardoCoyto)/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
