@@ -20,6 +20,12 @@
 | <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" />                                   | `https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33`             |
 | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                     | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`               |
 
+## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+
+| Badge                                                                                                    | URL                                                                         |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
+
 
 #### You can find me at
 ---
