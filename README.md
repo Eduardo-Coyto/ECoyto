@@ -7,7 +7,7 @@
 - 👨‍🏫 Student Lic. Comp. IA                         👉 [Fing](https://www.fing.edu.uy/)
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
-### Skils
+### 🤹 Skils
 | Badge                                                                                                                                        | URL                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      | `https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue`                |
