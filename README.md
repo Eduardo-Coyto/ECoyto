@@ -7,10 +7,6 @@
 - 👨‍🏫 Student Lic. Comp. IA                         👉 [Fing](https://www.fing.edu.uy/)
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
-### Most used languages:
-
-<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GBarlocco&show_icons=true&locale=en&langs_count=8&theme=aura&layout=compact&hide=html,shell" alt="gastonbarloccostatus" /></p>
-
 ---
 
 <p align='center'>
