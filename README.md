@@ -15,5 +15,5 @@
 
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="linkedin.com/in/eduardo-coyto-brignone-4b5637142"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="linkedin.com/in/eduardo-coyto-brignone-4b5637142/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
