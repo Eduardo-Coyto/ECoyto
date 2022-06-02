@@ -7,6 +7,8 @@
 - 👨‍🏫 Student Lic. Comp. IA                         👉 [Fing](https://www.fing.edu.uy/)
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
+
+#### You can find me at
 ---
 
 <p align='center'>
