@@ -7,6 +7,10 @@
 - 👨‍🏫 Student Lic. Comp. IA                         👉 [Fing](https://www.fing.edu.uy/)
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
+### Skils
+
+- https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+
 
 #### You can find me at
 ---
