@@ -8,8 +8,9 @@
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
 ### Skils
-
-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> `https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white`
+| Badge                                                                                                                                        | URL                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                                     |  `https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white`
 
 
 #### You can find me at
