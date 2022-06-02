@@ -10,15 +10,15 @@
 ### 🤹 Skills
 | Badge                                                                                                                                        | Software Language & Libraries                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      |<p align='center'> **Python**</p>    |       
-| <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                                     | **Sqlite**    |
-| <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>                               | **Conda**     |
-| <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />                                       | **Numpy**     |
-| <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />                                     | **Pandas**    |
-| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />                             | **Tensorflow**|
-| <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />                                           | **Git**       |
-| <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" />                                   | **Gitpod**    |
-| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                     | **Github**    |
+| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      |<p align='center'> **Python**</p>                   |       
+| <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                                     |<p align='center'>**Sqlite**</p>    |
+| <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>                               |<p align='center'>** **Conda**</p>                    |
+| <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />                                       |<p align='center'> **Numpy**</p>                    |
+| <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />                                     |<p align='center'> **Pandas**</p>                   |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />                             |<p align='center'> **Tensorflow**</p>               |
+| <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />                                           |<p align='center'> **Git**</p>                      |
+| <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" />                                   |<p align='center'> **Gitpod**</p>                   |
+| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                     |<p align='center'> **Github**</p>                   |
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
