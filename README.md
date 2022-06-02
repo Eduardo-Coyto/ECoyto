@@ -8,9 +8,9 @@
 - 👨‍🏫 Student MACHINE LEARNING ENGINEERING          👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 
 ### 🤹 Skills
-| Badge                                                                                                                                        | URL                                                                                                                              |
+| Badge                                                                                                                                        | Software Language & Libraries                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      | `https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue`                |
+| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      | **Python**                |
 | <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                                     |  `https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white`              |
 | <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>                               | `https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white`        |
 | <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />                                       | `https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white`                 |
