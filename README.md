@@ -6,7 +6,7 @@
 - 👨‍💻 Data Science                                              👉 [Coderhouse](https://www.coderhouse.com/)
 - 👨‍💻 Programador Full Stack                                    👉 [Digital House](https://www.digitalhouse.com/)
 - 👨‍💻 Machine Learning Engineering                              👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
-- 👨‍🏫 Student Diplomatura en Desarrollo Web Front End.          👉 [Academia Numen](https://www.academianumen.ar/)
+- 👨‍🏫 Student Diplomatura en Desarrollo Web Front End.          👉 [Academia Numen](https://www.academianumen.ar/) [Universidad de Atlantida](https://atlantida.edu.ar/)
 
 ### 🤹 Skills
 | Badge                                                                                                                                        | Software Language & Libraries                                                                                                                              |
