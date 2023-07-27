@@ -11,22 +11,23 @@
 ### 🤹 Skills
 | Badge                                                                                                                                        | Software Language & Libraries                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />                            |<p align='center'> **JavaScript**</p>               |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                       |<p align='center'> **HTML5**</p>                    |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                         |<p align='center'> **CSS3**</p>                     |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                      |<p align='center'> **REACT**</p>                     |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                                 |<p align='center'> **NodeJS**</p>                   |
 | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />                                      |<p align='center'> **Python**</p>                   |       
-| <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                                     |<p align='center'>**Sqlite**</p>    |
-| <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>                               |<p align='center'> **Conda**</p>                    |
 | <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />                                       |<p align='center'> **Numpy**</p>                    |
 | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />                                     |<p align='center'> **Pandas**</p>                   |
-| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />                             |<p align='center'> **Tensorflow**</p>               |
+| <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>                               |<p align='center'> **Conda**</p>                    |
+| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />                                       |<p align='center'> **MySql**</p>                    |
 | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />                                           |<p align='center'> **Git**</p>                      |
-| <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" />                                   |<p align='center'> **Gitpod**</p>                   |
 | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                     |<p align='center'> **Github**</p>                   |
+
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Coyto" /> 
-
-
-
 
 #### You can find me at
 ---
