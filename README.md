@@ -7,7 +7,7 @@
 - 👨‍💻 Programador Full Stack                                    👉 [Digital House](https://www.digitalhouse.com/)
 - 👨‍💻 Machine Learning Engineering                              👉 [UTEC](https://utec.edu.uy/) - [4Geeks Academy](https://4geeks.com/)
 - 👨‍💻 Diplomatura en Desarrollo Web Front End.                  👉 [Academia Numen](https://www.academianumen.ar/) [Universidad de Atlantida](https://atlantida.edu.ar/)
-- 👨‍🏫 Student Licenciatura en Tecnologías de la Información     👉 [UTEC]([https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) 
+- 👨‍🏫 Student Licenciatura en Tecnologías de la Información     👉 [UTEC](https://utec.edu.uy/)
 
 ### 🤹 Skills
 | Badge                                                                                                                                        | Software Language & Libraries                                                                                                                              |
